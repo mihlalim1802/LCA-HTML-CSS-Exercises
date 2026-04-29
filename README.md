@@ -1,6 +1,4 @@
 # LCA-HTML-CSS-Exercises
-
-# LCA-HTML-CSS-Exercises
 **Trainee:** [Mihlali Mtsabe]
 **Programme:** YouthCode Off-Site — Cohort 2, 2026
 **Course:** Course 1 — Frontend Web Development
